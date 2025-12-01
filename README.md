@@ -54,14 +54,3 @@ Yes — available for roles as a Fullstack .NET Developer (desktop + web).
 ## GitHub Stats
 ![Mikołaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avresial&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avresial&layout=compact&theme=radical)
-
----
-
-## How to collaborate with me
-- Open an issue or PR on the repo you want help with.  
-- I prefer small, focused PRs with tests and clear descriptions.  
-- For hiring or consulting, reach out on LinkedIn.
-
----
-
-Thanks for stopping by — feel free to follow for updates on Finance Manager and other projects. 🚀
